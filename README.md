@@ -1,4 +1,4 @@
-![image](https://github.com/PMaxsudbek/PMaxsudbek/assets/125341724/38268b5b-80d1-4439-97aa-3b8d69f44e08)# 👋 Hello, I am Maxsudbek🙂
+# 👋 Hello, I am Maxsudbek🙂
 
 ## 👀 Interests
 I'm interested in **cyber security**. Currently, I'm delving into encryption and hashing techniques.

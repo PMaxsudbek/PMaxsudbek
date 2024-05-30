@@ -1,4 +1,4 @@
-# 👋 Hello, I am Maxsudbek🙂
+# 👋 Hello, I am Pardayev Maxsudbek🙂
 
 ## 👀 Interests
 I'm interested in **cyber security**. Currently, I'm delving into encryption and hashing techniques.

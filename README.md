@@ -12,10 +12,10 @@ I want to cooperate with developers of **web applications**. Let's work together
 
 ## 📫 Contact Me
  **Telegram**:[<img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/>](https://t.me/Pardayev_Maxsudbek2)
-- **Telegram**: [# Cosmos | 🌑](https://t.me/Pardayev_Maxsudbek1)
-- **Instagram**: [Pardayev Maxsudbek](https://www.instagram.com/pardayev_maxsud)
-- **Facebook**: [Pardayev Maxsudbek](https://www.facebook.com/profile.php?id=100070846161557)
-- **LinkedIn**: [Pardayev Maxsudbek](https://www.linkedin.com/in/maxsudbek-pardayev-798541260/)
+- **Telegram**: [<img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/>](https://t.me/Pardayev_Maxsudbek1)
+- **Instagram**: [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>](https://www.instagram.com/pardayev_maxsud)
+- **Facebook**: [<img src="https://img.icons8.com/color/48/000000/facebook-new.png"/>](https://www.facebook.com/profile.php?id=100070846161557)
+- **LinkedIn**: [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/maxsudbek-pardayev-798541260/)
 
 ## 📫 My Coding Profiles
 - **Robocontest**: []()

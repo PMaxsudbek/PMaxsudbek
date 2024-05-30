@@ -1,13 +1,28 @@
-- 👋 Hello, I am Mahsudbek🙂
-- 👀 I'm interested in cyber security
-- 🌱 I'm currently learning encryption and hashing
-- 💞️ I want to cooperate with developers of web applications
-- 📫 How to contact me:
+# 👋 Hello, I am Maxsudbek🙂
 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: 404 error🔒
+## 👀 Interests
+I'm interested in **cyber security**. Currently, I'm delving into encryption and hashing techniques.
 
-<!---
-PMaxsudbek/PMaxsudbek is a ✨ special ✨ repository because its `README.md` (this file) appears in your GitHub profile.
-You can click the Review link to review your changes.
---->
+## 🌱 Learning
+- Encryption
+- Hashing
+
+## 💞️ Collaboration
+I want to cooperate with developers of **web applications**. Let's work together to build secure and efficient web solutions.
+
+## 📫 Contact Me
+- **Telegram**: [# Pardayev | 🌑](https://t.me/Pardayev_Maxsudbek2)
+- **Telegram**: [# Cosmos | 🌑](https://t.me/Pardayev_Maxsudbek1)
+- **Instagram**: [Pardayev Maxsudbek](https://www.instagram.com/pardayev_maxsud)
+- **Facebook**: [Pardayev Maxsudbek](https://www.facebook.com/profile.php?id=100070846161557)
+- **LinkedIn**: [Pardayev Maxsudbek](https://www.linkedin.com/in/maxsudbek-pardayev-798541260/)
+
+## 📫 My Coding Profiles
+- **Robocontest**: []()
+- **Leetcode**: []()
+
+## 😄 Pronouns
+He/Him
+
+## ⚡ Fun Fact
+404 error🔒

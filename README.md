@@ -9,17 +9,17 @@
    <a href="" title="Insta Profile"><img width="90" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
    <a href="" title="TG Profile"><img width="80" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
    <a href="" title="FB Profile"><img width="80" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
-  <a href=""><img alt="Hits" src="https://hits.sh/github.com/shoyimobloqulov.svg?view=today-total"/></a>
+  <a href=""><img alt="Hits" src="https://hits.sh/github.com/PMaxsudbek.svg?view=today-total"/></a>
   <a href=""><img src="https://wakatime.com/badge/user/601c65c4-5a70-4304-98de-a4833f83a8f9.svg" alt="Total time coded since May 19 2023" /></a>
 </h5>
 <hr>
 <p align=center>
   <div align=center>
     <a href="https://github.com/PMaxsudbek/" title="Go to Github profile">
-      <img align="left" width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=shoyimobloqulov&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+      <img align="left" width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=PMaxsudbek&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
     </a>
     <a href="https://github.com/PMaxsudbek/" title="Go to Github profile">
-      <img align="right"  width=400 src="https://github-readme-stats.vercel.app/api?username=shoyimobloqulov&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img align="right"  width=400 src="https://github-readme-stats.vercel.app/api?username=PMaxsudbek&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
 </p>

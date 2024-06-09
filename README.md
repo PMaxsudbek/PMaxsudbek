@@ -59,8 +59,11 @@
 I want to cooperate with developers of **web applications**. Let's work together to build secure and efficient web solutions.
 ## 📫 My Coding Profiles
 <h5 align="center">
-   <a href="https://robocontest.uz/profile/pmaxsudbek" title="Robocontest Profile" target="_top">
+   <a href="https://robocontest.uz/profile/pmaxsudbek" title="Robocontest Profile" target="_blank">
       <img width="30" src="https://robocontest.uz/favicon.png" alt="Robocontest Logo">
+   </a>
+   <a href="https://robocontest.uz/profile/pmaxsudbek" title="Robocontest Profile" target="_blank">
+      <img width="30" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="Robocontest Logo">
    </a>
 </h5>
 - **Robocontest**: []()

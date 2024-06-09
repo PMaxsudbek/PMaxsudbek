@@ -57,7 +57,7 @@
 
 ## 💞️ Collaboration
 I want to cooperate with developers of **web applications**. Let's work together to build secure and efficient web solutions.
-<p style="color: blue; font-size: 40px;" align="center">
+<p style="color: FF0000; font-size: 40px;" align="center">
   My Coding Profiles
 </p>
 <h5 align="center">
@@ -68,8 +68,6 @@ I want to cooperate with developers of **web applications**. Let's work together
    <img width="30" style="background-color: black;" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="Robocontest Logo">
   </a>
 </h5>
-- **Robocontest**: []()
-- **Leetcode**: []()
 ## 😄 Pronouns
 He/Him
 ## ⚡ Fun Fact

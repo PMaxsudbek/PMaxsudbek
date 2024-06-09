@@ -36,6 +36,7 @@
 <div align=center>
   <a href="https://github.com/PMaxsudbek?tab=repositories">🔍 <span>Show Repositories</span></a>
 </div>
+<hr>
 ## 🌱 Learning
 - Encryption
 - Hashing

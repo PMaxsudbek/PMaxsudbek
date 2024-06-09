@@ -25,15 +25,7 @@
     </a>
   </div>
 </p>
-
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
-<br>
-<hr>
+<hr><hr><hr><hr><hr><hr><br><hr>
 <p align=center>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img style="width: 30%;" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PMaxsudbek&hide=c%23,css,html%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />

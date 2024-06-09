@@ -60,7 +60,7 @@ I want to cooperate with developers of **web applications**. Let's work together
 ## 📫 My Coding Profiles
 <h5 align="center">
    <a href="https://your-profile-link" title="Robocontest Profile">
-      <img width="80" src="https://img.shields.io/badge/Robocontest%230077B5-blue?style=for-the-badge&logo=linkedin&logoColor=white">
+      <img width="80" src="https://img.shields.io/badge/Robocontest%230077B5-blue?style=for-the-badge&logo=robocontest&logoColor=white">
    </a>
 </h5>
 

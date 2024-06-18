@@ -86,6 +86,6 @@
       <img width="100" src="https://hrcdn.net/fcore/assets/brand/logo-new-white-green-a5cb16e0ae.svg" alt="HackerRank Logo">
   </a>
 </h5>
-
+<a href="/" data-event-label="footer" data-event-action="HackerRank">HackerRank</a>
 ## ⚡ Fun Fact
 404 error🔒

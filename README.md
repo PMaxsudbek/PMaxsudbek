@@ -66,7 +66,7 @@
 <h5 align="center">
   <div style="width: 300px;height: 200px;">
     <a href="https://codeforces.com/profile/pardayevmaxsud" title="CodeForces Profile" target="_blank">
-     <img width="30" style="background-color: black;" src="https://codeforces.org/s/28664/images/codeforces-sponsored-by-ton.png" alt="CodeForces Logo">
+     <img width="100" style="background-color: black;" src="https://codeforces.org/s/28664/images/codeforces-sponsored-by-ton.png" alt="CodeForces Logo">
     </a>
   </div>
    <a href="https://robocontest.uz/profile/pmaxsudbek" title="Robocontest Profile" target="_blank">

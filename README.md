@@ -82,8 +82,8 @@
   <a href="https://profiles.topcoder.com/Pardayev" title="TopCoder Profile" target="_blank">
    <img width="50" style="background-color: black;" src="https://uni-nav.topcoder.com/v1/assets/logo.min.svg" alt="TopCoder Logo">
   </a>
-  <a href="https://www.hackerrank.com/profile/pardayevmahsud" style="color:black;" title="HackerRank Profile" target="_blank">
-      HackerRank<img width="100" src="https://hrcdn.net/fcore/assets/brand/logo-new-white-green-a5cb16e0ae.svg" alt="HackerRank Logo">
+  <a href="https://www.hackerrank.com/profile/pardayevmahsud" title="HackerRank Profile" target="_blank">
+      <img width="100" src="https://hrcdn.net/fcore/assets/brand/logo-new-white-green-a5cb16e0ae.svg" alt="HackerRank Logo">
   </a>
 </h5>
 

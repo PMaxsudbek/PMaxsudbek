@@ -51,12 +51,10 @@
   </a>
 </div>
 <hr>
-## 🌱 Learning
-- Encryption
-- Hashing
+<h1>🌱 Learning</h1> 
+<h2>Encryption</h2>
+<h2>Hashing</h2>
 
-## 💞️ Collaboration
-I want to cooperate with developers of **web applications**. Let's work together to build secure and efficient web solutions.
 <p style="color: FF0000; font-size: 40px;" align="center">
   My Coding Profiles
 </p>

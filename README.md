@@ -87,7 +87,7 @@
       <img width="50" src="https://www.hackerrank.com/wp-content/uploads/2020/05/hackerrank_cursor_favicon_480px-150x150.png" alt="HackerRank Logo">
   </a>
   <a href="https://www.codecademy.com/profiles/Pardayev" title="CodeCademy Profile" target="_blank">
-      <img width="150" src="https://images.codecademy.com/social/logo-codecademy-social.png" alt="CodeCademy Logo">
+      <img width="100" src="https://images.codecademy.com/social/logo-codecademy-social.png" alt="CodeCademy Logo">
   </a>
 </h5>
 

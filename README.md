@@ -82,8 +82,8 @@
   <a href="https://profiles.topcoder.com/Pardayev" title="TopCoder Profile" target="_blank">
    <img width="50" style="background-color: black;" src="https://uni-nav.topcoder.com/v1/assets/logo.min.svg" alt="TopCoder Logo">
   </a>
-  <a href="https://www.hackerrank.com/profile/pardayevmahsud" title="HackerRank Profile" target="_blank" data-event-action="HackerRank">
-      <img width="100" src="https://www.hackerrank.com/wp-content/uploads/2020/05/hackerrank_cursor_favicon_480px-150x150.png" alt="HackerRank Logo">
+  <a href="https://www.hackerrank.com/profile/pardayevmahsud" title="HackerRank Profile" target="_blank">
+      <img width="50" src="https://www.hackerrank.com/wp-content/uploads/2020/05/hackerrank_cursor_favicon_480px-150x150.png" alt="HackerRank Logo">
   </a>
 </h5>
 ## ⚡ Fun Fact

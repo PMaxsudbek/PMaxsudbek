@@ -59,9 +59,9 @@
   My Coding Profiles
 </p>
 <ol>
-  <li>Robocontest</li>
-  <li>LeetCode</li>
-  <li>CodeForces</li>
+  <li>[CodeForces](https://codeforces.com/)</li>
+  <li>[Robocontest](https://robocontest.uz/)</li>
+  <li>[LeetCode](https://leetcode.com/)</li>
 </ol>
 <h5 align="center">
    <a href="https://robocontest.uz/profile/pmaxsudbek" title="Robocontest Profile" target="_blank">

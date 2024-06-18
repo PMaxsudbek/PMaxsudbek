@@ -65,13 +65,13 @@
 </ol>
 <h5 align="center">
   <a href="https://codeforces.com/profile/pardayevmaxsud" title="CodeForces Profile" target="_blank">
-    <img width="200" style="background-color: black;" src="https://codeforces.org/s/28664/images/codeforces-sponsored-by-ton.png" alt="CodeForces Logo">
+    <img width="150" style="background-color: black;" src="https://codeforces.org/s/28664/images/codeforces-sponsored-by-ton.png" alt="CodeForces Logo">
   </a>
   <a href="https://robocontest.uz/profile/pmaxsudbek" title="Robocontest Profile" target="_blank">
-    <img width="30" src="https://robocontest.uz/favicon.png" alt="Robocontest Logo">
+    <img width="50" src="https://robocontest.uz/favicon.png" alt="Robocontest Logo">
   </a>
   <a href="https://leetcode.com/u/pardayevmahsud" title="LeetCode Profile" target="_blank">
-   <img width="30" style="background-color: black;" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="LeetCode Logo">
+   <img width="50" style="background-color: black;" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="LeetCode Logo">
   </a>
 </h5>
 

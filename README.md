@@ -74,17 +74,19 @@
     <img width="50" src="https://robocontest.uz/favicon.png" alt="Robocontest Logo">
   </a>
   <a href="https://leetcode.com/u/pardayevmahsud" title="LeetCode Profile" target="_blank">
-   <img width="50" style="background-color: black;" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="LeetCode Logo">
+   <img width="50" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="LeetCode Logo">
   </a>
   <a href="https://atcoder.jp/users/Pardayev" title="AtCoder Profile" target="_blank">
-   <img width="50" style="background-color: black;" src="https://img.atcoder.jp/assets/logo.png" alt="AtCoder Logo">
+   <img width="50" src="https://img.atcoder.jp/assets/logo.png" alt="AtCoder Logo">
   </a>
   <a href="https://profiles.topcoder.com/Pardayev" title="TopCoder Profile" target="_blank">
-   <img width="50" style="background-color: black;" src="https://uni-nav.topcoder.com/v1/assets/logo.min.svg" alt="TopCoder Logo">
+   <img width="50" src="https://uni-nav.topcoder.com/v1/assets/logo.min.svg" alt="TopCoder Logo">
   </a>
   <a href="https://www.hackerrank.com/profile/pardayevmahsud" title="HackerRank Profile" target="_blank">
       <img width="50" src="https://www.hackerrank.com/wp-content/uploads/2020/05/hackerrank_cursor_favicon_480px-150x150.png" alt="HackerRank Logo">
   </a>
 </h5>
+
+
 ## ⚡ Fun Fact
 404 error🔒

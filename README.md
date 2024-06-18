@@ -65,6 +65,7 @@
   <li><a href="https://atcoder.jp/">AtCoder</a></li>
   <li><a href="https://www.topcoder.com/">TopCoder</a></li>
   <li><a href="https://www.hackerrank.com/">HackerRank</a></li>
+  <li><a href="https://www.codecademy.com/">CodeCademy</a></li>
 </ol>
 <h5 align="left">
   <a href="https://codeforces.com/profile/pardayevmaxsud" title="CodeForces Profile" target="_blank">
@@ -85,8 +86,8 @@
   <a href="https://www.hackerrank.com/profile/pardayevmahsud" title="HackerRank Profile" target="_blank">
       <img width="50" src="https://www.hackerrank.com/wp-content/uploads/2020/05/hackerrank_cursor_favicon_480px-150x150.png" alt="HackerRank Logo">
   </a>
-  <a href="https://www.codecademy.com/profiles/Pardayev" title="HackerRank Profile" target="_blank">
-      <img width="50" src="https://images.codecademy.com/social/logo-codecademy-social.png" alt="HackerRank Logo">
+  <a href="https://www.codecademy.com/profiles/Pardayev" title="CodeCademy Profile" target="_blank">
+      <img width="150" src="https://images.codecademy.com/social/logo-codecademy-social.png" alt="CodeCademy Logo">
   </a>
 </h5>
 

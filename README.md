@@ -56,7 +56,7 @@
 <h2>Hashing</h2>
 
 <p style="color: FF0000; font-size: 40px;" align="center">
-  My Coding Profiles
+  Coding site
 </p>
 <ol>
   <li><a href="https://codeforces.com/">CodeForces</a></li>
@@ -67,6 +67,9 @@
   <li><a href="https://www.hackerrank.com/">HackerRank</a></li>
   <li><a href="https://www.codecademy.com/">CodeCademy</a></li>
 </ol>
+<p style="color: FF0000; font-size: 40px;" align="center">
+  My Coding Profiles
+</p>
 <h5 align="left">
   <a href="https://codeforces.com/profile/pardayevmaxsud" title="CodeForces Profile" target="_blank">
     <img width="150" style="background-color: black;" src="https://codeforces.org/s/28664/images/codeforces-sponsored-by-ton.png" alt="CodeForces Logo">

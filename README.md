@@ -58,15 +58,18 @@
 <p style="color: FF0000; font-size: 40px;" align="center">
   Coding site
 </p>
-<ol>
-  <li><a href="https://codeforces.com/">CodeForces</a></li>
-  <li><a href="https://robocontest.uz/">Robocontest</a></li>
-  <li><a href="https://leetcode.com/">LeetCode</a></li>
-  <li><a href="https://atcoder.jp/">AtCoder</a></li>
-  <li><a href="https://www.topcoder.com/">TopCoder</a></li>
-  <li><a href="https://www.hackerrank.com/">HackerRank</a></li>
-  <li><a href="https://www.codecademy.com/">CodeCademy</a></li>
-</ol>
+<details>
+  <ol>
+    <li><a href="https://codeforces.com/">CodeForces</a></li>
+    <li><a href="https://robocontest.uz/">Robocontest</a></li>
+    <li><a href="https://leetcode.com/">LeetCode</a></li>
+    <li><a href="https://atcoder.jp/">AtCoder</a></li>
+    <li><a href="https://www.topcoder.com/">TopCoder</a></li>
+    <li><a href="https://www.hackerrank.com/">HackerRank</a></li>
+    <li><a href="https://www.codecademy.com/">CodeCademy</a></li>
+  </ol>
+</details>
+
 <p style="color: FF0000; font-size: 40px;" align="center">
   My Coding Profiles
 </p>
@@ -96,3 +99,47 @@
 
 ## ⚡ Fun Fact
 404 error🔒
+
+  <details>
+    <summary>📝 Alguns comandos úteis (Linux, MacOs e Powershell/Windows)</summary>
+
+  - lista os arquivos presentes no diretório
+    ```bash
+    ls # => lista do diretorio atual
+    # ou
+    dir / tree /f
+    # ou
+    ls <caminho do diretorio> # => lista do diretorio passado
+    ```
+  - Altera diretório atual
+    ```bash
+    cd #=> volta para a home
+    # ou
+    cd <caminho> #=> leva para o caminho passado
+    ```
+  - Remove arquivo
+    ```bash
+    rm <arquivo>
+    ```
+  - Remove diretório cujo caminho é dado como operando
+    ```bash
+    rmdir <caminho>
+    # => o diretório deve estar vazio, ou seja, antes você tem que remover todos os arquivos do diretório
+    ```
+  - Escreve na tela o conteúdo do arquivo do caminho dado como operando
+    ```bash
+    cat <arquivo>
+    ```
+  - Escreve na tela o caminho do diretório de trabalho atual
+    ```bash
+    pwd
+    ```
+  - Lista os comandos já executados
+    ```bash
+    history
+    ```
+  - Limpa a tela do terminal
+    ```bash
+    clear # => (clc no Powershell)
+    ```
+    </details>

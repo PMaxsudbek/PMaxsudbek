@@ -55,23 +55,22 @@
 <h2>Encryption</h2>
 <h2>Hashing</h2>
 
-    <p style="color: FF0000; font-size: 40px;" align="center">
-
-<details>
-  <summary>
+<p style="color: FF0000; font-size: 40px;" align="center">
+  <details>
+    <summary>
       Coding site
-  </summary>
-  <ol>
-    <li><a href="https://codeforces.com/">CodeForces</a></li>
-    <li><a href="https://robocontest.uz/">Robocontest</a></li>
-    <li><a href="https://leetcode.com/">LeetCode</a></li>
-    <li><a href="https://atcoder.jp/">AtCoder</a></li>
-    <li><a href="https://www.topcoder.com/">TopCoder</a></li>
-    <li><a href="https://www.hackerrank.com/">HackerRank</a></li>
-    <li><a href="https://www.codecademy.com/">CodeCademy</a></li>
-  </ol>
-</details>
-    </p>
+    </summary>
+    <ol>
+      <li><a href="https://codeforces.com/">CodeForces</a></li>
+      <li><a href="https://robocontest.uz/">Robocontest</a></li>
+      <li><a href="https://leetcode.com/">LeetCode</a></li>
+      <li><a href="https://atcoder.jp/">AtCoder</a></li>
+      <li><a href="https://www.topcoder.com/">TopCoder</a></li>
+      <li><a href="https://www.hackerrank.com/">HackerRank</a></li>
+      <li><a href="https://www.codecademy.com/">CodeCademy</a></li>
+    </ol>
+  </details>
+</p>
 
 <p style="color: FF0000; font-size: 40px;" align="center">
   My Coding Profiles

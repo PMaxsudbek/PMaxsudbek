@@ -56,9 +56,10 @@
 <h2>Hashing</h2>
 
 <p style="color: FF0000; font-size: 40px;" align="center">
-  Coding site
+  
 </p>
 <details>
+  <summary>Coding site</summary>
   <ol>
     <li><a href="https://codeforces.com/">CodeForces</a></li>
     <li><a href="https://robocontest.uz/">Robocontest</a></li>
